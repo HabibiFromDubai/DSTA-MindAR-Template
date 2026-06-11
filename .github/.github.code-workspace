@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../effects"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../imageTargets"
+		},
+		{
+			"path": "../models"
+		}
+	]
+}
